@@ -76,6 +76,8 @@
         "*.tcc": "cpp",
         "memory_resource": "cpp",
         "stop_token": "cpp",
-        "cinttypes": "cpp"
-    }
+        "cinttypes": "cpp",
+        "list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
